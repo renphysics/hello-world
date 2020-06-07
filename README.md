@@ -1,4 +1,5 @@
 # hello-world
 This is a description.
 
-This is the edited version.
+{lhs,rhs}=<<lhsrhs23.m;
+LinearSolve[lhs,rhs]
